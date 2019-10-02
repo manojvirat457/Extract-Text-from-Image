@@ -1,5 +1,5 @@
+
 # Convert Image to Text
-[![Build Status](https://api.travis-ci.org/prabhakar267/ocr-convert-image-to-text.svg?branch=master)](https://travis-ci.org/prabhakar267/ocr-convert-image-to-text)
 
 Python wrapper to grab text from all the images in a directory and save a subdirectory as text files using [Tesseract Engine](https://github.com/tesseract-ocr/tesseract).
 
@@ -142,10 +142,5 @@ which is 1 followed by one googol of zeroes.
 
 
 ```
-
-### Stargazers over time
-
-[![Stargazers over time](https://starcharts.herokuapp.com/prabhakar267/ocr-convert-image-to-text.svg)](https://starcharts.herokuapp.com/prabhakar267/ocr-convert-image-to-text)
-
 
       
